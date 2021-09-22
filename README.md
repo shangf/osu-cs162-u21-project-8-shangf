@@ -1,4 +1,4 @@
-# osu-cs162-u21-project-8-shangf
+# project 8a
 
 Write a generator function named count_seq that doesn't take any parameters and generates a sequence that starts like this: 2, 12, 1112, 3112, 132112, 1113122112, 311311222112, 13211321322112, ...
 
